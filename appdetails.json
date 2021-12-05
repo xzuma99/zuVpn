@@ -16,7 +16,7 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"server1.freevpn.me","active":"true","signal":"a"},
+  
     {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.95","active":"true","signal":"a"}
     
   ]
