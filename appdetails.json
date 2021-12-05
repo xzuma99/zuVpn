@@ -17,6 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Amsterdam","country":"Netherlands","image":"netherlands","ip":"server1.freevpn.me","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Amsterdam","country":"France","image":"france","ip":"fr1.vpnbook.com","active":"true","signal":"a"}
     
   ]
 }
