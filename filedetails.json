@@ -1,6 +1,7 @@
 {
 "ovpn_file":[
   {"id":0,"file":"
+   client
    ###############################################################################
 # OpenVPN 2.0 Sample Configuration File
 # for PacketiX VPN / SoftEther VPN Server
