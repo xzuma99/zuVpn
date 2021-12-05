@@ -19,7 +19,7 @@
   
     {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.95","active":"true","signal":"a"},
     {"id":1, "file":0, "city":"United States","country":"USA","image":"unitedstates","ip":"45.76.147.33","active":"true","signal":"a"},
-    {"id":2, "file":1, "city":"Viet Nam","country":"Viet Nam","image":"vietnam","ip":"203.205.51.181","active":"true","signal":"c"},
+    {"id":2, "file":0, "city":"Viet Nam","country":"Viet Nam","image":"vietnam","ip":"203.205.51.181","active":"true","signal":"c"},
     
   ]
 }
