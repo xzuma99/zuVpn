@@ -22,7 +22,7 @@
     {"id":2, "file":2, "city":"Viet Nam","country":"Viet Nam","image":"vietnam","ip":"203.205.51.181","active":"true","signal":"c"},
     {"id":3, "file":3, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"5.181.235.14","active":"true","signal":"b"},
     {"id":4, "file":3, "city":"South Korea","country":"South Korea","image":"southkorea","ip":"39.124.151.74","active":"true","signal":"b"},
-    {"id":4, "file":3, "city":"Chile","country":"Chile","image":"chile","ip":"179.4.212.188","active":"true","signal":"b"},
+    {"id":4, "file":3, "city":"Chile","country":"Chile","image":"chile","ip":"179.4.212.188","active":"true","signal":"b"}
     
   ]
 }
