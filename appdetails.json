@@ -1,9 +1,9 @@
 {
-  "ads":"true",
+  "ads":"false",
   "update":[{
     "version":"2.8.1600",
-    "title":"This app is now Open Source",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "title":"Zu VPN Pro",
+    "description":"xzuma99",
     "size":"https://git.io/JeY69"
   }],
   "blocked":[
@@ -20,7 +20,7 @@
     {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.95","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"United States","country":"USA","image":"unitedstates","ip":"45.76.147.33","active":"true","signal":"a"},
     {"id":2, "file":2, "city":"Viet Nam","country":"Viet Nam","image":"vietnam","ip":"203.205.51.181","active":"true","signal":"c"},
-    {"id":3, "file":3, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"5.181.235.14","active":"true","signal":"c"},
+    {"id":3, "file":3, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"5.181.235.14","active":"true","signal":"b"},
     
   ]
 }
