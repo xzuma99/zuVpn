@@ -15,12 +15,12 @@
   ],
   "free":[
   
-    {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.95","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"United States","country":"USA","image":"unitedstates","ip":"45.76.147.33","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Viet Nam","country":"Viet Nam","image":"vietnam","ip":"203.205.51.181","active":"true","signal":"c"},
-    {"id":3, "file":3, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"5.181.235.14","active":"true","signal":"b"},
-    {"id":4, "file":4, "city":"South Korea","country":"South Korea","image":"southkorea","ip":"39.124.151.74","active":"true","signal":"b"},
-    {"id":5, "file":5, "city":"Chile","country":"Chile","image":"chile","ip":"179.4.212.188","active":"true","signal":"b"}
+    {"id":0, "file":0, "city":"Hong Kong","country":"Japan","image":"hongkong","ip":"103.253.43.168","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"France","country":"France","image":"france","ip":"51.254.35.77","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Czech Republic","country":"Czech Republic ","image":"czech","ip":"195.123.246.189","active":"true","signal":"a"},
+    {"id":3, "file":3, "city":"Japan","country":"Japan","image":"japan,"ip":"172.107.216.196","active":"true","signal":"a"},
+    {"id":4, "file":4, "city":"United States","country":"United States","image":"unitedstates","ip":"195.123.243.81","active":"true","signal":"b"},
+    {"id":5, "file":5, "city":"Singapore ","country":"Singapore ","image":"singapore","ip":"139.59.225.199","active":"true","signal":"a"}
     
   ]
 }
